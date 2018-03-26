@@ -1,6 +1,6 @@
 {
-  "name": "infobip/infobip-api-php-client",
-  "description": "Infobip SMS library for PHP",
+  "name": "zadquiel/infobip-api-php-client",
+  "description": "Infobip SMS library for PHP Fixed Zadquiel",
   "version": "2.2.0",
   "keywords": [
     "infobip",
@@ -9,16 +9,14 @@
     "msisdn",
     "api"
   ],
-  "homepage": "http://dev.infobip.com",
   "authors": [
     {
-      "name": "",
-      "email": "libraries@infobip.com"
+        "name": "Jeancarlos De la Cruz",
+        "email": "jdelacruz2712@gmail.com",
+        "homepage": "http://securitec.pe",
+        "role": "Developer"
     }
   ],
-  "support": {
-    "email": "support@infobip.com"
-  },
   "license": "Apache-2.0",
   "minimum-stability": "dev",
   "require": {
